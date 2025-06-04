@@ -1,0 +1,30 @@
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.AssemblyReference.cache
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.LoginForm.resources
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.Properties.Resources.resources
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.GenerateResource.cache
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.CoreCompileInputs.cache
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.exe.config
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.exe
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.pdb
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.exe
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.pdb
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.RegisterForm.resources
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.ClientForm.resources
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.EmployeeForm.resources
+C:\Users\afade\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.AdminForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.exe.config
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.exe
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\Recording of requests for equipment repair.pdb
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.AssemblyReference.cache
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.AdminForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.ClientForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.EmployeeForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.LoginForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording_of_requests_for_equipment_repair.RegisterForm.resources
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.GenerateResource.cache
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.exe
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recording of requests for equipment repair.pdb
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\bin\Debug\MaterialSkin.dll
+C:\Users\Kirill\Desktop\Ремонт оборудования\Recording of requests for equipment repair\Recording of requests for equipment repair\obj\Debug\Recordin.B85692BE.Up2Date
